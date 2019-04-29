@@ -1,16 +1,8 @@
 # tencent_youtuyun
 
-A new Flutter project.
+一个身份证信息提取SDK.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+关于flutter的身份证信息提取sdk没找到就自己翻译了一下，目前只有身份证提取功能，后面的有时间再慢慢丰富起来吧.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.

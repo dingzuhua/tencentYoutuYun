@@ -1,8 +1,8 @@
 # tencent_youtuyun
 
-一个身份证信息提取SDK.
+tencent_youtuyun
 
 ## Getting Started
 
-关于flutter的身份证信息提取sdk没找到就自己翻译了一下，目前只有身份证提取功能，后面的有时间再慢慢丰富起来吧.
+所有的都封装在tencentYoutuYun目录下面，外面直接调TXQcloudFrSDK就好了，main里有个关于身份证信息提取的简单例子！！
 
